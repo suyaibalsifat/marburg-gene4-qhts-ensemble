@@ -1,0 +1,21 @@
+# Core (versions used for the manuscript: Python 3.12, scikit-learn 1.6.1)
+scikit-learn==1.6.1
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+joblib
+requests
+rdkit
+imbalanced-learn
+xgboost
+lightgbm
+catboost
+shap
+lime
+# Exploratory docking (Part 20)
+vina
+meeko
+gemmi
+# Tip: after a successful run, record exact versions with `pip freeze > requirements-lock.txt`
